@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4A241D49-E08E-4C42-B828-4B7BF010E6B4}|Default">
+  <MonoDevelop.Ide.ItemProperties.TareaSemana5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TareaSemana5/Program.cs">
+    <Files>
+      <File FileName="TareaSemana5/Program.cs" Line="28" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TareaSemana5" expanded="True">
+            <Node name="TareaSemana5">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/bin/Debug/net7.0/Ejercicio 3 Conversion Kg a lb
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/bin/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.deps.json
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/bin/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.runtimeconfig.json
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/bin/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.dll
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/bin/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.pdb
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/obj/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.csproj.AssemblyReference.cache
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/obj/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/obj/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.AssemblyInfoInputs.cache
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/obj/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.AssemblyInfo.cs
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/obj/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.csproj.CoreCompileInputs.cache
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/obj/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.dll
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/obj/Debug/net7.0/refint/Ejercicio 3 Conversion Kg a lb.dll
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/obj/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.pdb
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/obj/Debug/net7.0/Ejercicio 3 Conversion Kg a lb.genruntimeconfig.cache
+/Users/alexdiaz/Projects/Ejercicio 3 Conversion Kg a lb/Ejercicio 3 Conversion Kg a lb/obj/Debug/net7.0/ref/Ejercicio 3 Conversion Kg a lb.dll

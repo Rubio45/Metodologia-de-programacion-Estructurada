@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2802AE61-7370-4BB6-B145-E09442F5F687}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ejercicio_2203_220Conversion_220Kg_220a_220lb PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio 3 Conversion Kg a lb/Program.cs">
+    <Files>
+      <File FileName="Ejercicio 3 Conversion Kg a lb/Program.cs" Line="37" Column="136" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ejercicio 3 Conversion Kg a lb" expanded="True">
+            <Node name="Ejercicio 3 Conversion Kg a lb">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{625421DF-3379-4BDE-BD7A-8EEA26A5DBE3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Operadores y tipos de datos/Program.cs">
+    <Files>
+      <File FileName="Operadores y tipos de datos/Program.cs" Line="29" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Operadores y tipos de datos" expanded="True">
+            <Node name="Operadores y tipos de datos">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Operadores_220y_220tipos_220de_220datos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

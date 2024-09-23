@@ -1,0 +1,15 @@
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.csproj.AssemblyReference.cache
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.AssemblyInfoInputs.cache
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.AssemblyInfo.cs
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.csproj.CoreCompileInputs.cache
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/bin/Debug/net7.0/Ejercicio4
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/bin/Debug/net7.0/Ejercicio4.deps.json
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/bin/Debug/net7.0/Ejercicio4.runtimeconfig.json
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/bin/Debug/net7.0/Ejercicio4.dll
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/bin/Debug/net7.0/Ejercicio4.pdb
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.dll
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/obj/Debug/net7.0/refint/Ejercicio4.dll
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.pdb
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.genruntimeconfig.cache
+/Users/alexdiaz/Projects/Ejercicio4/Ejercicio4/obj/Debug/net7.0/ref/Ejercicio4.dll

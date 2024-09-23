@@ -1,0 +1,15 @@
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/bin/Debug/net7.0/Ejercicio 2 Ternario
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/bin/Debug/net7.0/Ejercicio 2 Ternario.deps.json
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/bin/Debug/net7.0/Ejercicio 2 Ternario.runtimeconfig.json
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/bin/Debug/net7.0/Ejercicio 2 Ternario.dll
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/bin/Debug/net7.0/Ejercicio 2 Ternario.pdb
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/obj/Debug/net7.0/Ejercicio 2 Ternario.csproj.AssemblyReference.cache
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/obj/Debug/net7.0/Ejercicio 2 Ternario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/obj/Debug/net7.0/Ejercicio 2 Ternario.AssemblyInfoInputs.cache
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/obj/Debug/net7.0/Ejercicio 2 Ternario.AssemblyInfo.cs
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/obj/Debug/net7.0/Ejercicio 2 Ternario.csproj.CoreCompileInputs.cache
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/obj/Debug/net7.0/Ejercicio 2 Ternario.dll
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/obj/Debug/net7.0/refint/Ejercicio 2 Ternario.dll
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/obj/Debug/net7.0/Ejercicio 2 Ternario.pdb
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/obj/Debug/net7.0/Ejercicio 2 Ternario.genruntimeconfig.cache
+/Users/alexdiaz/Projects/Ejercicio 2 Ternario/Ejercicio 2 Ternario/obj/Debug/net7.0/ref/Ejercicio 2 Ternario.dll

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2A05F915-3747-4948-A2B0-61CF96F7C115}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio 2 Ternario/Program.cs">
+    <Files>
+      <File FileName="Ejercicio 2 Ternario/Program.cs" Line="28" Column="92" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ejercicio 2 Ternario" expanded="True">
+            <Node name="Ejercicio 2 Ternario">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ejercicio_2202_220Ternario PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

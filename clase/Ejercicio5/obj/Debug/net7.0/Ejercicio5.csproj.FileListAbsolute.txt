@@ -1,0 +1,15 @@
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/bin/Debug/net7.0/Ejercicio5
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/bin/Debug/net7.0/Ejercicio5.deps.json
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/bin/Debug/net7.0/Ejercicio5.runtimeconfig.json
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/bin/Debug/net7.0/Ejercicio5.dll
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/bin/Debug/net7.0/Ejercicio5.pdb
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/obj/Debug/net7.0/Ejercicio5.csproj.AssemblyReference.cache
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/obj/Debug/net7.0/Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/obj/Debug/net7.0/Ejercicio5.AssemblyInfoInputs.cache
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/obj/Debug/net7.0/Ejercicio5.AssemblyInfo.cs
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/obj/Debug/net7.0/Ejercicio5.csproj.CoreCompileInputs.cache
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/obj/Debug/net7.0/Ejercicio5.dll
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/obj/Debug/net7.0/refint/Ejercicio5.dll
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/obj/Debug/net7.0/Ejercicio5.pdb
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/obj/Debug/net7.0/Ejercicio5.genruntimeconfig.cache
+/Users/alexdiaz/Projects/Ejercicio5/Ejercicio5/obj/Debug/net7.0/ref/Ejercicio5.dll

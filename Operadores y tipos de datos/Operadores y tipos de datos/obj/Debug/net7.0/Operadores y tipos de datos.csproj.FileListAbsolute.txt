@@ -1,0 +1,15 @@
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/bin/Debug/net7.0/Operadores y tipos de datos
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/bin/Debug/net7.0/Operadores y tipos de datos.deps.json
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/bin/Debug/net7.0/Operadores y tipos de datos.runtimeconfig.json
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/bin/Debug/net7.0/Operadores y tipos de datos.dll
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/bin/Debug/net7.0/Operadores y tipos de datos.pdb
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/obj/Debug/net7.0/Operadores y tipos de datos.csproj.AssemblyReference.cache
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/obj/Debug/net7.0/Operadores y tipos de datos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/obj/Debug/net7.0/Operadores y tipos de datos.AssemblyInfoInputs.cache
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/obj/Debug/net7.0/Operadores y tipos de datos.AssemblyInfo.cs
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/obj/Debug/net7.0/Operadores y tipos de datos.csproj.CoreCompileInputs.cache
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/obj/Debug/net7.0/Operadores y tipos de datos.dll
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/obj/Debug/net7.0/refint/Operadores y tipos de datos.dll
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/obj/Debug/net7.0/Operadores y tipos de datos.pdb
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/obj/Debug/net7.0/Operadores y tipos de datos.genruntimeconfig.cache
+/Users/alexdiaz/Projects/Operadores y tipos de datos/Operadores y tipos de datos/obj/Debug/net7.0/ref/Operadores y tipos de datos.dll
